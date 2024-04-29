@@ -121,3 +121,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
 }
+
+.item-price-close {
+  width: 65px;
+}
